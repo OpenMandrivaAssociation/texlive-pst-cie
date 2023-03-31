@@ -1,6 +1,6 @@
 Name:		texlive-pst-cie
 Version:	60959
-Release:	1
+Release:	2
 Summary:	CIE color space
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-cie
