@@ -3,7 +3,7 @@ Version:	60959
 Release:	2
 Summary:	CIE color space
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-cie
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-cie
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-cie.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-cie.doc.r%{version}.tar.xz
